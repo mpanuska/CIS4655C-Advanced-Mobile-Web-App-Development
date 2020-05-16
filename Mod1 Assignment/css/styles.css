@@ -1,0 +1,14 @@
+.header-image{
+  background-image: url('../images/city.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 150px;
+}
+
+h1 {
+  color: #ffffff
+}
+
+body {
+  background-color: #aeaeae, color #000000
+}
